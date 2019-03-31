@@ -1,0 +1,37 @@
+name: EmotesRevived
+description: A recreation of a plugin from a while ago.
+author: supernt
+main: me.superischroma.emotesrevived
+version: 0.1
+
+commands:
+  backflip:
+    description: Do a backflip.
+    usage: /<command> [player]
+  emotes:
+    description: Main command.
+    usage: /<command> [list]
+  greet:
+    description: Greet someone.
+    usage: /<command> [player]
+  grin:
+    description: Smirkity smirk...
+    usage: /<command> [player]
+  highfive:
+    description: High-five someone.
+    usage: /<command> [player]
+  hug:
+    description: Hug someone.
+    usage: /<command> [player]
+  kiss:
+    description: Kiss someone.
+    usage: /<command> [player]
+  laugh:
+    description: Funny stuff.
+    usage: /<command> [player]
+  raspberry:
+    description: Blow a raspberry.
+    usage: /<command> [player]
+  smile:
+    description: Turn that frown upside down.
+    usage: /<command> [player]
